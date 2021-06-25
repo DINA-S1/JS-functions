@@ -7,7 +7,7 @@
 function add(a, b) {
   return a + b;
 }
-
+  isFinite()
 const result = add(1, 4);
 console.log(result);
 
